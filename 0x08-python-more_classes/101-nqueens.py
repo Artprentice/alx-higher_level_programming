@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 101-nqueens.py
-# Abdullah Suleiman
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
