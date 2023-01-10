@@ -1,6 +1,5 @@
 # Input/Output
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn how to open, read, write and append files from a script in **Python**.
-
+python file manipulation
 ## Technologies
 * Python Scripts are written with Python 3.8.5
 * Tested on Ubuntu 20.04 LTS
